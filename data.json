@@ -1,0 +1,99 @@
+{
+   "site":{
+      "info":{
+         "title":"Krna"
+      },
+      "topbar":{
+         "title":"HareKrsna",
+         "menu":{
+            "portfolio":"portfolio",
+            "about":"sobre",
+            "contact":"contato"
+         }
+      },
+      "masthead":{
+         "avatar":"https://227444-697973-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/03/radha-capa-1.jpg",
+         "heading":"Hadhe Krsna love",
+         "subheading":"And associates devots"
+      },
+      "portfolio":{
+         "heading":"Portfolio",
+         "items":[
+            {
+               "title":"krsna1",
+               "img":"assets/img/portfolio/cabin.png",
+               "txt":"cabin test txt",
+               "ordem":"1"
+            },
+            {
+               "title":"Radha & Krsna",
+               "img":"assets/img/portfolio/cake.png",
+               "txt":"pure love!",
+               "ordem":"2"
+            },
+            {
+               "title":"game",
+               "img":"assets/img/portfolio/circus.png",
+               "txt":"game test txt",
+               "ordem":"1"
+            },
+            {
+               "title":"Radharani!! o/",
+               "img":"assets/img/portfolio/game.png",
+               "txt":"safe test txt",
+               "ordem":"1"
+            },
+            {
+               "title":"submarine",
+               "img":"assets/img/portfolio/safe.png",
+               "txt":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.",
+               "ordem":"1"
+            },
+            {
+               "title":"cirsus",
+               "img":"assets/img/portfolio/submarine.png",
+               "txt":"circus test txt",
+               "ordem":"1"
+            }
+         ]
+      },
+      "about":{
+         "heading":"Sobre eu mesmo ;)",
+         "txt1":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.",
+         "txt2":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam."
+      },
+      "contactme":{
+         "heading":"Entre em contato",
+         "fields":{
+            "name":"nome",
+            "email":"email",
+            "phone":"fone",
+            "message":"Mensagem",
+            "send":"Enviar"
+         }
+      },
+      "footer":{
+         "location":{
+            "heading":"Local oi Radhe & Krsna",
+            "txt":"caraíva viva"
+         },
+         "socialmidia":{
+            "heading":"Social links",
+            "link":{
+               "instagram":"111",
+               "facebook":"222",
+               "twitter":"33",
+               "linkedin":"44"
+            }
+         },
+         "footerabout":{
+            "heading":"Sobre",
+            "txt":"sds"
+         },
+         "copyright":{
+            "heading":"Magaweb",
+            "link":"http://magaweb.com.br"
+         }
+      }
+   }
+}
