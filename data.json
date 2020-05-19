@@ -21,13 +21,13 @@
          "items":[
             {
                "title":"krsna1",
-               "img":"assets/img/portfolio/cabin.png",
+               "img":"https://s2.glbimg.com/7C0rs-gDUqMwu41tU-kmx08aEp0=/e.glbimg.com/og/ed/f/original/2017/10/10/produtos-para-a-pele.jpg",
                "txt":"cabin test txt",
                "ordem":"1"
             },
             {
                "title":"Radha & Krsna",
-               "img":"assets/img/portfolio/cake.png",
+               "img":"http://delineare.com.br/uploads/dezembro2010.jpg",
                "txt":"pure love!",
                "ordem":"2"
             },
