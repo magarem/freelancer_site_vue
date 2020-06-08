@@ -17,7 +17,7 @@
          "subheading":"Comida saudável que cura"
       },
       "portfolio":{
-         "heading":"Portfolio",
+         "heading":"Cardápio",
          "items":[
             {
                "title":"Bijú com guacamole",
@@ -51,14 +51,14 @@
             },
             {
                "title":"Pão de queijp vegano",
-               "img":"https://www.instagram.com/p/CAY04MqFMI7/",
+               "img":"https://www.instagram.com/p/CAY04MqFMI7/media/?size=l",
                "txt":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam bibendum convallis ante, eget ullamcorper leo gravida eu. Quisque in arcu ut risus cursus fringilla. Donec tincidunt ante quis libero mollis tincidunt.",
                "ordem":"1"
             }
          ]
       },
       "about":{
-         "heading":"Sobre eu mesmo ;)",
+         "heading":"Sobre nós",
          "txt1":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.",
          "txt2":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam."
       },
