@@ -13,7 +13,7 @@
       },
       "masthead":{
          "avatar":"/assets/img/rozenlogo.jpg",
-         "heading":"Vegetariano & Vegano",
+         "heading":"Natural",
          "subheading":"Comida saudável que cura"
       },
       "portfolio":{
@@ -50,7 +50,7 @@
                "ordem":"1"
             },
             {
-               "title":"Pão de queijp vegano",
+               "title":"Pão de queijo vegano",
                "img":"https://www.instagram.com/p/CAY04MqFMI7/media/?size=l",
                "txt":"Lorem ipsum dolor sit amet, consectetur adipiscing elit; Aliquam bibendum convallis ante, eget ullamcorper leo gravida eu. Quisque in arcu ut risus cursus fringilla. Donec tincidunt ante quis libero mollis tincidunt.",
                "ordem":"1"
