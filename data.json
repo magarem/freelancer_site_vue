@@ -1,20 +1,20 @@
 {
    "site":{
       "info":{
-         "title":"Krna"
+         "title":"Rio Zen Caraíva"
       },
       "topbar":{
-         "title":"HareKrsna",
+         "title":"Rio Zen Caraíva",
          "menu":{
-            "portfolio":"portfolio",
+            "portfolio":"cardápio",
             "about":"sobre",
             "contact":"contato"
          }
       },
       "masthead":{
-         "avatar":"https://227444-697973-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/03/radha-capa-1.jpg",
-         "heading":"Hadhe Krsna love",
-         "subheading":"And associates devots"
+         "avatar":"https://www.instagram.com/p/B-saJmRF4yI/media/?size=m",
+         "heading":"Vegetariano & Vegano",
+         "subheading":"Comida saudável que cura"
       },
       "portfolio":{
          "heading":"Portfolio",
@@ -32,27 +32,27 @@
                "ordem":"2"
             },
             {
-               "title":"game",
+               "title":"Limonada suiça",
                "img":"https://www.instagram.com/p/B_AqQU_FNTo/media/?size=l",
                "txt":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam bibendum convallis ante, eget ullamcorper leo gravida eu. Quisque in arcu ut risus cursus fringilla. Donec tincidunt ante quis libero mollis tincidunt. ",
                "ordem":"1"
             },
             {
-               "title":"Radharani!! o/",
-               "img":"assets/img/portfolio/game.png",
-               "txt":"safe test txt",
+               "title":"Picadinho vegano de abóbora com coco",
+               "img":"https://www.instagram.com/p/B_DzKOrlG08/media/?size=l",
+               "txt":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam bibendum convallis ante, eget ullamcorper leo gravida eu. Quisque in arcu ut risus cursus fringilla. Donec tincidunt ante quis libero mollis tincidunt.",
                "ordem":"1"
             },
             {
-               "title":"submarine",
-               "img":"assets/img/portfolio/safe.png",
-               "txt":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.",
+               "title":"Suco verde com folha de abóbora",
+               "img":"https://www.instagram.com/p/B_AJdi5FsIf/media/?size=l",
+               "txt":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam bibendum convallis ante, eget ullamcorper leo gravida eu. Quisque in arcu ut risus cursus fringilla. Donec tincidunt ante quis libero mollis tincidunt.",
                "ordem":"1"
             },
             {
-               "title":"cirsus",
-               "img":"assets/img/portfolio/submarine.png",
-               "txt":"circus test txt",
+               "title":"Pão de queijp vegano",
+               "img":"https://www.instagram.com/p/CAY04MqFMI7/",
+               "txt":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam bibendum convallis ante, eget ullamcorper leo gravida eu. Quisque in arcu ut risus cursus fringilla. Donec tincidunt ante quis libero mollis tincidunt.",
                "ordem":"1"
             }
          ]
